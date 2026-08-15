@@ -23,8 +23,8 @@ I am currently seeking funded PhD opportunities to advance research at the inter
 
 ## Education
 
-| Degree | Institution | Period |
-|--------|-------------|--------|
+| Degree | Institution |
+|--------|-------------|
 | M.Sc. in Computer Science (AI/ML) | Université Constantine 2, Algeria|
 | B.Sc. in Computer Science | Université Constantine 2, Algeria |
 
